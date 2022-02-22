@@ -9,5 +9,3 @@ Currently a second-year CSN student at University of Malaya!
 - 🎓 I’m looking forward to finish my degree
 
 ### "Hidup itu sederhana, 'goreng', 'angkat', 'tiriskan'."
-
-### Languages:
