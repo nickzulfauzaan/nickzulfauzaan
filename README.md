@@ -1,4 +1,3 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=nickzulfauzaan.nickzulfauzaan)
 <p align="center">
   <img src="https://c.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif" alt="animated" />
 </p>
