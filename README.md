@@ -5,10 +5,10 @@
 
 ### I'm Fauzaan👋
 Currently a second-year CSN student at University of Malaya!
-- ⚡️ Still learning at super-sonic speed.
+- ⚡️ Still learning at super-sonic speed
 - 🌱 Love to explore new things
 - 🎓 I’m looking forward to finish my degree
 
-### "Hidup it sederhana, 'goreng', 'angkat', 'tiriskan'."
+### "Hidup itu sederhana, 'goreng', 'angkat', 'tiriskan'."
 
 ### Languages:
