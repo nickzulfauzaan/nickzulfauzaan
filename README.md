@@ -3,9 +3,6 @@
 </p>
 
 ### I'm Fauzaan👋
-Currently a final year CSN student at University of Malaya!
-- ⚡️ Still learning at super-sonic speed
-- 🌱 Love to explore new things
-- 🎓 I’m looking forward to finish my degree
+Your Flutter Dev :D
 
 ### "Hidup itu sederhana, 'goreng', 'angkat', 'tiriskan'."
